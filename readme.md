@@ -8,9 +8,9 @@ This is a game where people use Pull Request to submit numbers for [bingo](https
 
 1. Fork the repository
 2. Make on one commit to trigger a pages build (add the first number for example)
-3. Share this URL with all the players: http://your_username.github.io/bingo-board
+3. Share this URL with all the players: http://hejun442001.github.io/bingo-board
 4. Decide the range of numbers for a board (1~50 or 1~100)
-5. Every player should go to http://your_username.github.io/bingo-board/board.html to create a bingo board based on the range
+5. Every player should go to http://hejun442001.github.io/bingo-board/board.html to create a bingo board based on the range
 6. You merge Pull Request as they come in, ideally in the order they come in
   * Verify that the file is a JSON file that lives in `_data/numbers`.
   * Verify that there is no more than one file.
